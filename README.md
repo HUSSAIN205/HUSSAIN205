@@ -1,88 +1,117 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HUSSAIN205/HUSSAIN205/main/banner.png" alt="Profile banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Hussain%20Kola&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Automation&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Hussain Kola header" />
 
-# Hussain Kola
+<a href="https://hkolaportfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Training+models+that+solve+real+problems;Automating+the+boring+stuff+with+AI;Building+intelligent+systems+end+to+end;Code+%2B+Motion+%2B+Design" alt="Typing animation" /></a>
 
-### AI Engineer · Machine Learning · Intelligent Automation
+<br/>
 
-Building AI-driven solutions that turn messy real-world problems into working products.
-
+<a href="https://hkolaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF2E2E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/hussain-kola-9634b3252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/hussainkola2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.instagram.com/hussain_kola4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:hussainkola2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=hussain205&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=hussain205&label=Profile%20views&color=00b4d8&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 `whoami`
 
-I'm an AI engineer who enjoys the full path from idea to deployed system: modelling, backend, and interface.
+```python
+class AIEngineer:
+    name = "Hussain Kola"
+    studying = "B.E. in Artificial Intelligence & Machine Learning"
+    focus = ["Machine Learning", "Intelligent Automation", "AI-Driven Solutions"]
+    also = ["Motion Design", "Video Editing", "Graphic Design"]
+    currently_building = ["IntelliBill (ERP)", "Mangenesis (SIH)"]
+    currently_learning = ["React", "Python"]
+    reach_me = "hussainkola2@gmail.com"
 
-- 🚀 **Building:** [IntelliBill](https://github.com/ismailqamri/intellibill), an ERP system
-- 🧬 **Building:** [Mangenesis](https://github.com/YAALA-RUKNUDDIN/Mangenesis), a Smart India Hackathon project
-- 🌱 **Learning:** React and Python
-- 📫 **Reach me:** [hussainkola2@gmail.com](mailto:hussainkola2@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Runtime**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Cloud & DevOps**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+    def mission(self):
+        return "Build intelligent systems that look as good as they work."
+```
 
 ---
 
-## 📌 Featured Projects
-
-| Project | What it is | Link |
-| --- | --- | --- |
-| **IntelliBill** | ERP system for billing and business operations | [Repo](https://github.com/ismailqamri/intellibill) |
-| **Mangenesis** | Smart India Hackathon (SIH) project | [Repo](https://github.com/YAALA-RUKNUDDIN/Mangenesis) |
-
----
-
-## 📊 GitHub Stats
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hussain205&show_icons=true&locale=en" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain205&layout=compact&locale=en" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,react,nodejs,css&perline=7" alt="Languages and frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,azure,docker,linux,git&perline=7" alt="Data and infrastructure" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ai&perline=7" alt="Design" />
 
-<img src="https://streak-stats.demolab.com/?user=hussain205" alt="GitHub streak" />
+</div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussain205&row=1&column=7" alt="Trophies" /></a>
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ismailqamri/intellibill">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ismailqamri&repo=intellibill&theme=tokyonight&hide_border=true" alt="IntelliBill" />
+</a>
+<a href="https://github.com/YAALA-RUKNUDDIN/Mangenesis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YAALA-RUKNUDDIN&repo=Mangenesis&theme=tokyonight&hide_border=true" alt="Mangenesis" />
+</a>
+
+</div>
+
+| Project | What it is |
+| --- | --- |
+| 🧾 **IntelliBill** | ERP system for billing and business operations |
+| 🧬 **Mangenesis** | Smart India Hackathon (SIH) team project |
+| 🛡️ **EduSecure** | AI-powered learning and proctoring platform for students and teachers, with automated grading, personalized learning paths, and secure exam proctoring |
+
+---
+
+## 🎓 Journey
+
+| | |
+| --- | --- |
+| **Education** | B.E. in Artificial Intelligence & Machine Learning, Anjuman Institute of Technology & Management |
+| **Hackathon** | Smart India Hackathon (SIH): worked with a team to ideate, build, and present a solution to a real-world problem |
+| **Internship** | Qgraphy: video editing, motion graphics, and digital content for brand campaigns and client projects |
+
+---
+
+## 🎬 Beyond Code
+
+I also work in motion design, video editing, and graphic design, and I like projects where AI and creativity meet. See my show reel and gallery on my [portfolio](https://hkolaportfolio.vercel.app/).
+
+**Open to collaborations** on web, motion graphics, and AI projects. 🤝
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hussain205&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain205&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=hussain205&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=hussain205&theme=tokyonight&row=1&column=7&margin-w=10" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain205&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something intelligent together.**
+
+<a href="https://hkolaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20portfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Visit my portfolio" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
