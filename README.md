@@ -12,8 +12,7 @@
 <a href="https://www.instagram.com/hussain_kola4"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:hussainkola2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=hussain205&label=Profile%20views&color=00b4d8&style=for-the-badge" alt="Profile views" />
-
+![Profile Banner](https://github.com/HUSSAIN205/HUSSAIN205/blob/main/banner.png)
 </div>
 
 ---
