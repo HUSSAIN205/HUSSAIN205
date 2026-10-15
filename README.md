@@ -1,5 +1,6 @@
-<div align="center">
 ![Profile Banner](https://github.com/HUSSAIN205/HUSSAIN205/blob/main/banner.png)
+<div align="center">
+
 
 <a href="https://hkolaportfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Training+models+that+solve+real+problems;Automating+the+boring+stuff+with+AI;Building+intelligent+systems+end+to+end;Code+%2B+Motion+%2B+Design" alt="Typing animation" /></a>
 
