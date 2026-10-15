@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/HUSSAIN205/HUSSAIN205/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Hussain Kola</h1>
 <h3 align="center">AI Engineer specializing in Machine Learning, Intelligent Automation, and AI-Driven Solutions.</h3>
 
