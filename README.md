@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Hussain%20Kola&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Intelligent%20Automation&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Hussain Kola header" />
-
 <a href="https://hkolaportfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Training+models+that+solve+real+problems;Automating+the+boring+stuff+with+AI;Building+intelligent+systems+end+to+end;Code+%2B+Motion+%2B+Design" alt="Typing animation" /></a>
 
 <br/>
